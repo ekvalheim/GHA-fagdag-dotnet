@@ -29,6 +29,7 @@ jobs:
 #      - name: Run tests
 #        run: 
         
+        
       # Oppgave 6: List ut nuget dependencies med sårbarheter. 
       # Feiler ikke jobben dersom den finner noe,
       # (Men det er mulig å sette opp)
